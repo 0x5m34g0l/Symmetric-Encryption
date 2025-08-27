@@ -1,0 +1,19 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+
+# Build artifacts
+*.exe
+*.dll
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+.vscode/

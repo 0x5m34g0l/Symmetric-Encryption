@@ -13,3 +13,4 @@ A simple Windows Forms app that demonstrates symmetric encryption and decryption
 - Reset and Save buttons.
 
 ## Screenshot
+![App UI](app_snapshot.png)
